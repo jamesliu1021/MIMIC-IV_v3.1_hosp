@@ -1,6 +1,5 @@
 # MIMIC-IV_v3.1_hosp
 ERD for hosp module
-file:///Users/yuzeliu/output/index.html
 
 SchemaSpy-6.2.4 w/ sqlite-jdbc-3.50.1.0
 
